@@ -1,5 +1,5 @@
 
-https://biggda270.github.io/super-disco/
+https://biggda270.github.io/WorkDayScheduler/
 
 
 GIVEN I am using a daily planner to create a schedule
